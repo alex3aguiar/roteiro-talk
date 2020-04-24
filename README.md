@@ -1,10 +1,1 @@
- - [ ] talk inspirada no [12factor](https://12factor.net/pt_br/)
- - [ ] explicação por cima do que é o 12factor
- - [ ] Algumas regras do 12factor ajudam muito no dia a dia
- - [ ] Variáveis de ambiente(configurações, senhas de serviços, chave de encriptação)
- - [ ] Lançar erro caso não tenha todas as variáveis de ambiente setadas
- - [ ]  Read-me 
-      - [ ] titulo
-      - [ ]  Como instalar o projeto para desenvolver
-      - [ ] Comandos que vai precisar já separados para facilitar
-      - [ ] links 
+o roteiro está nas issues
